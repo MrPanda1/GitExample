@@ -1,6 +1,5 @@
 Shopping List
 1. Milk
-2. Eggs
 3. Bread
 4. Booze
 5. Cereal
